@@ -1,9 +1,13 @@
 {
   "name": "ylt",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "test cli",
   "keywords": [],
   "author": "NicolYang",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Just-Doing/ylt"
+  },
   "license": "ISC",
   "dependencies": {
     "chalk": "^3.0.0",
